@@ -1,0 +1,119 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(244, 247, 248);
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.s-1{
+    width: 500px;
+    height: 600px;
+    padding: 20px;
+  
+
+}
+.s-2{
+    color: blue;
+}
+.s-3{
+    background-color: aqua;
+    width: 140px;
+    border-radius: 20px;
+    height: 50px;
+    text-align: center;
+}
+.s-4{
+    font-size: small;
+    color: rgb(155, 35, 35);
+   
+}
+.s-5{
+    color: rgb(68, 68, 126);
+}
+
+.s-6{
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 16px;
+}
+.s-7{
+    color: blueviolet;
+    font-size: small;
+}
+.s-8{
+    font-size: small;
+}
+.s-9{
+    font-size: small;
+    color: blueviolet;
+}
+.s-10{
+    color: rgb(241, 235, 235);
+    background-color: blue;
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+}
+.s-11{
+    background-color: rgb(255, 255, 255);
+}
+.s-12{
+    font-size: small;
+}
+.s-13{
+    background-color: rgb(160, 5, 5);
+    width: 120px;
+    border-radius: 10px;
+    text-align: center;
+}
+.s-14{
+    background-color: rgb(255, 255, 255);
+}
+.s-15{
+    width: 100%;
+    background-color: rgb(125, 76, 172);
+    color: blue;
+    font-size: large;
+    height: 40px;
+    border-radius: 10px;
+    line-height: 35px;
+}
+.s-16{
+    font-size: 16px;
+    color: rgb(209, 4, 4);
+    line-height: 30px;
+}
+.s-17{
+    font-size: 14px;
+    color: black;
+    line-height: 30px;
+
+}
+.s-18{
+    color: rgb(255, 232, 232);
+}
+.s-19{
+    background-color: rgb(255, 255, 255);
+}
+.s-20{
+    text-align: justify;
+    line-height: 30px;
+    font-weight: 300;
+}
+.s-21{
+    font-weight: 500;
+    color: rgb(119, 117, 228);
+}
+.s-22{
+    color: red;
+}
+.s-23{
+    background-color: rgb(102, 71, 71);
+    text-align: center;
+}
